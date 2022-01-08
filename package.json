@@ -1,0 +1,23 @@
+{
+  "name": "green-check",
+  "version": "1.0.0",
+  "description": "Green Checkmark",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.cjs && node ./test/test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gebbber/green-check.git"
+  },
+  "keywords": [
+    "green",
+    "checkmark"
+  ],
+  "author": "Gregory Everett Brandon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gebbber/green-check/issues"
+  },
+  "homepage": "https://github.com/gebbber/green-check#readme"
+}
